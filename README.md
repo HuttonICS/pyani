@@ -1,19 +1,50 @@
 # `pyani`
 
-Application and Python module for whole-genome classification of microbes using Average Nucleotide Identity.
+## We are deprecating `pyani`. Please use [`pyani-plus`](https://github.com/pyani-plus/pyani-plus).
 
------
+As part of the [genomeRxiv project](https://genomerxiv.cs.vt.edu/index.php), we developed a new and improved implementation of average nucleotide identity methods that scales better on a wider range of computing environments. Please use `pyani-plus` in place of `pyani`.
 
-## Contributing
+You can download `pyani-plus` and find instructions for using it at the links below.
 
-If you would like to contribute code to the `pyani` project (e.g. a bug fix or new feature), please refer to the [`CONTRIBUTING.md`](CONTRIBUTING.md) guide for more details.
+- [`pyani-plus` repository](https://github.com/pyani-plus/pyani-plus)
+- [`pyani-plus` documentation](https://pyani-plus.github.io/pyani-plus-docs/)
 
-`pyani` is maintained by:
+The `pyani` program and package has now reached the end of its useful life. It will no longer be maintained, and this repository will be deprecated.
 
-- [Leighton Pritchard](https://pureportal.strath.ac.uk/en/persons/leighton-pritchard)
-- [Bailey Harrington](https://pureportal.strath.ac.uk/en/persons/bailey-harrington)
+I would like to take this opportunity to thank everyone who has used, worked on, or in any way improved `pyani` in its previous incarnations. It proved to be a popular and powerful software tool, used in over 1000 publications, and downloaded over 40,000 times. It's been great, but it's time to move on to better things (i.e. [`pyani-plus`](https://github.com/pyani-plus/pyani-plus)).
 
-and we are grateful to all who have contributed to this software:
+### What happens next?
+
+Hopefully, you become an active and enthusiastic user of `pyani-plus`.
+
+We will be archiving this repository on 1st July 2025. At that point we will have closed all issues and pull requests, and the repository will become read-only to reflect its deprecated status.
+
+### What to do next
+
+- **I am happy using this version of `pyani`**
+  - If you are happy using this version of `pyani`, then by all means continue using it. But please be aware we will not be fixing bugs, or improving the codebase from this point on. The repository will be archived on 1st July 2025.
+- **`pyani` is no longer working for me**
+- **There is a bug in `pyani` that I can't live with**
+- **I would like to try the new improved `pyani-plus`** 
+  - `pyani-plus` does the same job but is better in pretty much every relevant way, so please do visit the links below to download/install, and to read the documentation.
+    - [`pyani-plus` repository](https://github.com/pyani-plus/pyani-plus)
+    - [`pyani-plus` documentation](https://pyani-plus.github.io/pyani-plus-docs/)
+
+### How issues will be affected
+
+Any issues raised after 19th May 2025 will be cross-linked to the `pyani-plus` Issues page at https://github.com/pyani-plus/pyani-plus/issues and dealt with at that location
+
+### How pull requests will be affected
+
+From 1st June 2025, no new pull requests will be merged other than in exceptional circumstances. Development has essentially ceased on this repository and we do not encourage late PRs.
+
+### But what if we don't want `pyani` to die?
+
+I'm sorry. `pyani` has had its time. If you would like to fork the project and maintain that fork, you are always free to do so. But I don't think anyone wants `pyani` to live on any more than I do myself and, if _I'm_ letting go, you may want to question whether using your finite time on this planet to keep this software alive is worth it.
+
+## Roll of Honour
+
+We are grateful to all who have contributed to this software:
 
 ### Contributors ✨  ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -60,7 +91,7 @@ and we are grateful to all who have contributed to this software:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-> (This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!)
+> (This project followed the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!)
 
 -----
 
