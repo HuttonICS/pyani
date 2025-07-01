@@ -1,6 +1,6 @@
 # `pyani`
 
-## We are deprecating `pyani`. Please use [`pyani-plus`](https://github.com/pyani-plus/pyani-plus).
+## We have deprecated `pyani`. Please use [`pyani-plus`](https://github.com/pyani-plus/pyani-plus).
 
 As part of the [genomeRxiv project](https://genomerxiv.cs.vt.edu/index.php), we developed a new and improved implementation of average nucleotide identity methods that scales better on a wider range of computing environments. Please use `pyani-plus` in place of `pyani`.
 
@@ -9,7 +9,7 @@ You can download `pyani-plus` and find instructions for using it at the links be
 - [`pyani-plus` repository](https://github.com/pyani-plus/pyani-plus)
 - [`pyani-plus` documentation](https://pyani-plus.github.io/pyani-plus-docs/)
 
-The `pyani` program and package has now reached the end of its useful life. It will no longer be maintained, and this repository will be deprecated.
+The `pyani` program and package has now reached the end of its useful life. It will no longer be maintained, and this repository is now archived.
 
 I would like to take this opportunity to thank everyone who has used, worked on, or in any way improved `pyani` in its previous incarnations. It proved to be a popular and powerful software tool, used in over 1000 publications, and downloaded over 40,000 times. It's been great, but it's time to move on to better things (i.e. [`pyani-plus`](https://github.com/pyani-plus/pyani-plus)).
 
@@ -17,26 +17,18 @@ I would like to take this opportunity to thank everyone who has used, worked on,
 
 Hopefully, you become an active and enthusiastic user of `pyani-plus`.
 
-We will be archiving this repository on 1st July 2025. At that point we will have closed all issues and pull requests, and the repository will become read-only to reflect its deprecated status.
+We archived this repository on 1st July 2025. All issues and pull requests have been closed, and the repository is read-only.
 
 ### What to do next
 
 - **I am happy using this version of `pyani`**
-  - If you are happy using this version of `pyani`, then by all means continue using it. But please be aware we will not be fixing bugs, or improving the codebase from this point on. The repository will be archived on 1st July 2025.
+  - If you are happy using this version of `pyani`, then by all means continue using it. But please be aware we will not be fixing bugs, or improving the codebase from this point on. The repository was archived on 1st July 2025.
 - **`pyani` is no longer working for me**
 - **There is a bug in `pyani` that I can't live with**
 - **I would like to try the new improved `pyani-plus`** 
   - `pyani-plus` does the same job but is better in pretty much every relevant way, so please do visit the links below to download/install, and to read the documentation.
     - [`pyani-plus` repository](https://github.com/pyani-plus/pyani-plus)
     - [`pyani-plus` documentation](https://pyani-plus.github.io/pyani-plus-docs/)
-
-### How issues will be affected
-
-Any issues raised after 19th May 2025 will be cross-linked to the `pyani-plus` Issues page at https://github.com/pyani-plus/pyani-plus/issues and dealt with at that location
-
-### How pull requests will be affected
-
-From 1st June 2025, no new pull requests will be merged other than in exceptional circumstances. Development has essentially ceased on this repository and we do not encourage late PRs.
 
 ### But what if we don't want `pyani` to die?
 
@@ -132,6 +124,10 @@ DOI: [10.1039/C5AY02550H](https://doi.org/10.1039/C5AY02550H)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/pyani/badges/installer/conda.svg)](https://conda.anaconda.org/bioconda)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/pyani/badges/downloads.svg)](https://anaconda.org/bioconda/pyani)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/pyani/badges/platforms.svg)](https://anaconda.org/bioconda/pyani)
+
+-----
+
+## The information below is retained for reference only. `pyani` is now archived.
 
 -----
 
